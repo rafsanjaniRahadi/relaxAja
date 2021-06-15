@@ -4,7 +4,7 @@
  * Copyright 2011-2019 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
-@import url("https://fonts.googleapis.com/css?family=Poppins:300,400,500,700&display=swap");
+
 @import "functions";
 @import "variables";
 @import "mixins";
@@ -43,6 +43,7 @@
 @import "utilities";
 @import "print";
 
+
 .brand-text-icon {
     font-size: 26px;
     font-weight: 500;
@@ -52,9 +53,9 @@
       color: $primary;
       text-decoration: none;
     }
-  }
+}
 
-header {
+  header {
     border-bottom: 1px solid $gray-200;
     width: 100%;
     position: relative;
