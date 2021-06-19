@@ -1,17 +1,17 @@
 {
   "hero": {
-    "travelers": 80409,
-    "treasures": 882,
-    "cities": 1492
+    "travelers": 12345,
+    "treasures": 987,
+    "cities": 123456
   },
   "mostPicked": [
     {
       "_id": "asd1293uasdads1",
-      "name": "Jung Hook Sie",
+      "name": "Grand Dafam Rohan",
       "type": "Apartment",
       "imageUrl": "/images/image-mostpicked-1.jpg",
-      "country": "South Korea",
-      "city": "Seoul Flore",
+      "country": "Indonesia",
+      "city": "Yogyakarta",
       "price": "80",
       "unit": "night"
     },
@@ -30,28 +30,28 @@
       "name": "House Tour",
       "type": "Rumah",
       "imageUrl": "/images/image-mostpicked-3.jpg",
-      "country": "South Korea",
-      "city": "Seoul Flore",
+      "country": "Indonesia",
+      "city": "Yogyakarta",
       "price": "80",
       "unit": "night"
     },
     {
       "_id": "asd1293uasdads1",
-      "name": "Jung Hook Sie",
+      "name": "Grand Dafam Rohan",
       "type": "Apartment",
       "imageUrl": "/images/image-mostpicked-4.jpg",
-      "country": "South Korea",
-      "city": "Seoul Flore",
+      "country": "Indonesia",
+      "city": "Yogyakarta",
       "price": "80",
       "unit": "night"
     },
     {
       "_id": "asd1293uasdads1",
-      "name": "Jung Hook Sie",
+      "name": "Grand Dafam Rohan",
       "type": "Apartment",
       "imageUrl": "/images/image-mostpicked-5.jpg",
-      "country": "South Korea",
-      "city": "Seoul Flore",
+      "country": "Indonesia",
+      "city": "Yogyakarta",
       "price": "80",
       "unit": "night"
     }
@@ -59,114 +59,114 @@
   "categories": [
     {
       "_id": "asd1293uasdads1",
-      "name": "House with beauty backyard",
+      "name": "Hotel dengan Halaman Belakang",
       "items": [
         {
           "_id": "asd1293uasdads1",
           "name": "PSW Antasari",
           "imageUrl": "/images/image-category-1.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
+          "country": "Indonesia",
+          "city": "Yogyakarta",
           "isPopular": true
         },
         {
           "_id": "asd1293uasdads1",
           "name": "Kuretakeso",
           "imageUrl": "/images/image-category-2.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
+          "country": "Indonesia",
+          "city": "Yogyakarta",
           "isPopular": false
         },
         {
           "_id": "asd1293uasdads1",
           "name": "Arya Duta",
           "imageUrl": "/images/image-category-3.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
+          "country": "Indonesia",
+          "city": "Yogyakarta",
           "isPopular": false
         },
         {
           "_id": "asd1293uasdads1",
           "name": "Grand Dhika",
           "imageUrl": "/images/image-category-4.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
+          "country": "Indonesia",
+          "city": "Yogyakarta",
           "isPopular": false
         }
       ]
     },
     {
       "_id": "asd1293uasdads1",
-      "name": "Hotels with large living room",
+      "name": "Hotel dengan Ruang Tamu",
       "items": [
         {
           "_id": "asd1293uasdads1",
           "name": "PSW Antasari",
           "imageUrl": "/images/image-category-5.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
+          "country": "Indonesia",
+          "city": "Yogyakarta",
           "isPopular": false
         },
         {
           "_id": "asd1293uasdads1",
           "name": "Kuretakeso",
           "imageUrl": "/images/image-category-6.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
+          "country": "Indonesia",
+          "city": "Yogyakarta",
           "isPopular": false
         },
         {
           "_id": "asd1293uasdads1",
           "name": "Arya Duta",
           "imageUrl": "/images/image-category-7.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
+          "country": "Indonesia",
+          "city": "Yogyakarta",
           "isPopular": false
         },
         {
           "_id": "asd1293uasdads1",
           "name": "Grand Dhika",
           "imageUrl": "/images/image-category-8.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
+          "country": "Indonesia",
+          "city": "Yogyakarta",
           "isPopular": true
         }
       ]
     },
     {
       "_id": "asd1293uasdads1",
-      "name": "Apartments with kitchen set",
+      "name": "Hotel dengan dapur mewwwahh",
       "items": [
         {
           "_id": "asd1293uasdads1",
-          "name": "PSW Antasari",
+          "name": " Grand Semarang Bersinar",
           "imageUrl": "/images/image-category-9.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
+          "country": "Indonesia",
+          "city": "Semarang",
           "isPopular": false
         },
         {
           "_id": "asd1293uasdads1",
-          "name": "Kuretakeso",
+          "name": " Grand Semarang Bersinar",
           "imageUrl": "/images/image-category-10.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
+          "country": "Indonesia",
+          "city": "Semarang",
           "isPopular": false
         },
         {
           "_id": "asd1293uasdads1",
-          "name": "Arya Duta",
+          "name": " Grand Semarang Bersinar",
           "imageUrl": "/images/image-category-11.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
+          "country": "Indonesia",
+          "city": "Semarang",
           "isPopular": true
         },
         {
           "_id": "asd1293uasdads1",
-          "name": "Grand Dhika",
+          "name": " Grand Semarang Bersinar",
           "imageUrl": "/images/image-category-12.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
+          "country": "Indonesia",
+          "city": "Semarang",
           "isPopular": false
         }
       ]
@@ -175,10 +175,10 @@
   "testimonial": {
     "_id": "asd1293uasdads1",
     "imageUrl": "/images/testimonial-landingpages.jpg",
-    "name": "Happy Family",
+    "name": "Rafsanjani Rahadi",
     "rate": 4.55,
-    "content": "What a great trip with my family and I should try again next time soon ...",
-    "familyName": "Angga",
-    "familyOccupation": "Product Designer"
+    "content": "lorem ipsum dolor sit amet, consectetur adipiscing el",
+    "familyName": "Rahadi Family",
+    "familyOccupation": "mountainer"
   }
 }
