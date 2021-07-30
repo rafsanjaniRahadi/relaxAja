@@ -1,9 +1,11 @@
 import React from "react";
 
+
 import Button from "elements/Button";
 import BrandIcon from "parts/IconText";
 
 export default function Header(props) {
+
   const getNavLinkClass = (path) => {
     return props.location.pathname === path ? " active" : "";
   };
@@ -33,12 +35,7 @@ export default function Header(props) {
                     Home
                   </Button>
                 </li>
-                <li className={`nav-item${getNavLinkClass("/browse-by")}`}>
-                  <Button className="nav-link" type="link" href="/browse-by">
-                    Browse By
-                  </Button>
-                </li>
-                <li className={`nav-item${getNavLinkClass("/stories")}`}>
+                {/* <li className={`nav-item${getNavLinkClass("/stories")}`}>
                   <Button className="nav-link" type="link" href="/stories">
                     Stories
                   </Button>
@@ -47,7 +44,7 @@ export default function Header(props) {
                   <Button className="nav-link" type="link" href="/agents">
                     Agents
                   </Button>
-                </li>
+                </li> */}
               </ul>
             </div>
           </nav>

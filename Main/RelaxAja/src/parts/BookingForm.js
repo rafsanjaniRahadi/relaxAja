@@ -81,14 +81,15 @@ class BookingForm extends Component {
   render() {
     const { data } = this.state;
     const { itemDetails } = this.props;
+    console.log(itemDetails)
 
     return (
       <div className="card bordered" style={{ padding: "60px 80px" }}>
         <h4 className="mb-3">Booking Sekarang</h4>
         <h5 className="h2 text-teal mb-4">
-          Rp.{itemDetails.price}{" .000"}
+           Rp.{itemDetails.price}{" .000"}
           <span className="text-gray-500 font-weight-light">
-            per {itemDetails.unit}
+            per Malam
           </span>
         </h5>
 

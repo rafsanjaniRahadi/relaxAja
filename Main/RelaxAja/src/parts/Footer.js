@@ -17,17 +17,17 @@ export default function Footer() {
             <h6 className="mt-2">For Beinners</h6>
             <ul className="list-group list-group-flush">
               <li className="list-group-item">
-                <Button type="link" href="/register">
+                <Button type="link" href="#">
                   Buat akun baru
                 </Button>
               </li>
               <li className="list-group-item">
-                <Button type="link" href="/properties">
+                <Button type="link" href="#">
                   Pesan Ruangan
                 </Button>
               </li>
               <li className="list-group-item">
-                <Button type="link" href="/use-payments">
+                <Button type="link" href="#">
                   Pembayaran
                 </Button>
               </li>
@@ -37,17 +37,17 @@ export default function Footer() {
             <h6 className="mt-2">Tentang Kami</h6>
             <ul className="list-group list-group-flush">
               <li className="list-group-item">
-                <Button type="link" href="/careers">
+                <Button type="link" href="#">
                   Karir Kita
                 </Button>
               </li>
               <li className="list-group-item">
-                <Button type="link" href="/privacy">
+                <Button type="link" href="#">
                   Privasi
                 </Button>
               </li>
               <li className="list-group-item">
-                <Button type="link" href="/terms">
+                <Button type="link" href="#">
                   Peraturan Terkait
                 </Button>
               </li>

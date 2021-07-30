@@ -35,11 +35,11 @@ export default function Testimony({ data }) {
                     <span className="">
                         {data.familyName}, {data.familyOccupation}
                     </span>
-                    <div>
+                    {/* <div>
                         <Button className="btn px-5" style={{marginTop: 40 }} hasShadow isPrimary type="link" href={`/testimonial/${data._id}`}>
                             Tampilkan
                         </Button>
-                    </div>
+                    </div> */}
                 </div>
             </div>
         </section>
