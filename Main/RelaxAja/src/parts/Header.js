@@ -30,11 +30,11 @@ export default function Header(props) {
             <BrandIcon />
             <div className="collapse navbar-collapse">
               <ul className="navbar-nav ml-auto">
-                <li className={`nav-item${getNavLinkClass("/")}`}>
+                {/* <li className={`nav-item${getNavLinkClass("/")}`}>
                   <Button className="nav-link" type="link" href="/">
                     Home
                   </Button>
-                </li>
+                </li> */}
                 {/* <li className={`nav-item${getNavLinkClass("/stories")}`}>
                   <Button className="nav-link" type="link" href="/stories">
                     Stories

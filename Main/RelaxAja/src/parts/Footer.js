@@ -16,11 +16,11 @@ export default function Footer() {
           <div className="col-auto mr-5">
             <h6 className="mt-2">For Beinners</h6>
             <ul className="list-group list-group-flush">
-              <li className="list-group-item">
+              {/* <li className="list-group-item">
                 <Button type="link" href="#">
                   Buat akun baru
                 </Button>
-              </li>
+              </li> */}
               <li className="list-group-item">
                 <Button type="link" href="#">
                   Pesan Ruangan
@@ -36,11 +36,11 @@ export default function Footer() {
           <div className="col-2 mr-5">
             <h6 className="mt-2">Tentang Kami</h6>
             <ul className="list-group list-group-flush">
-              <li className="list-group-item">
+              {/* <li className="list-group-item">
                 <Button type="link" href="#">
                   Karir Kita
                 </Button>
-              </li>
+              </li> */}
               <li className="list-group-item">
                 <Button type="link" href="#">
                   Privasi
@@ -60,9 +60,9 @@ export default function Footer() {
                 <Button
                   isExternal
                   type="link"
-                  href="mailto:support@staycation.id"
+                  href="mailto:rahadirafsanjani@gmail.com"
                 >
-                  support@RelaxAja.id
+                  rahadirafsanjani@gmail.com
                 </Button>
               </li>
               <li className="list-group-item">
@@ -71,7 +71,7 @@ export default function Footer() {
                 </Button>
               </li>
               <li className="list-group-item">
-                <span>RelaxAja, Yogyakarta Indonesia</span>
+                <span>Sleman, Yogyakarta Indonesia</span>
               </li>
             </ul>
           </div>
