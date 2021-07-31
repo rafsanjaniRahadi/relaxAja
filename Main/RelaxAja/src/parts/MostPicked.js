@@ -7,7 +7,7 @@ export default function MostPicked(props) {
   return (
     <section className="container" ref={props.refMostPicked}>
       <Fade bottom>
-        <h4 className="mb-3">Virals</h4>
+        <h4 className="mb-3">Super Worth It</h4>
         <div className="container-grid">
           {props.data.map((item, index) => {
             return (
@@ -18,8 +18,8 @@ export default function MostPicked(props) {
                 <Fade bottom delay={500 * index}>
                   <div className="card card-featured">
                     <div className="tag">
-                      ${item.price}
-                      <span className="font-weight-light">per {item.unit}</span>
+                      {item.price}K
+                      <span className="font-weight-light"> per Malam</span>
                     </div>
                     <figure className="img-wrapper">
                       <img
