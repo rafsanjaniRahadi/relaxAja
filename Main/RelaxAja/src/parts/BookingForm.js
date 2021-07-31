@@ -88,8 +88,8 @@ class BookingForm extends Component {
         <h4 className="mb-3">Booking Sekarang</h4>
         <h5 className="h2 text-teal mb-4">
            Rp.{itemDetails.price}{".000"}
-          <span className="text-gray-500 font-weight-light">
-            per Malam
+          <span className="text-gray-500 font-weight-light h4">
+            /Malam
           </span>
         </h5>
 
