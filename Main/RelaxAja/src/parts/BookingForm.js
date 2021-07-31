@@ -87,7 +87,7 @@ class BookingForm extends Component {
       <div className="card bordered" style={{ padding: "60px 80px" }}>
         <h4 className="mb-3">Booking Sekarang</h4>
         <h5 className="h2 text-teal mb-4">
-           Rp.{itemDetails.price}{" .000"}
+           Rp.{itemDetails.price}{".000"}
           <span className="text-gray-500 font-weight-light">
             per Malam
           </span>
